@@ -1,0 +1,49 @@
+
+.container {
+    margin: 5% 5%;
+}
+
+div.container-fluid {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 12px;
+    letter-spacing: 5px;;
+}
+
+.navbar-nav li a:hover {
+    color: gray !important;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+}
+
+.readmore {
+    margin-left: 5px;
+    text-decoration: none;
+    color: #7CB9E8;
+}
+
+footer {
+    background: #f8f9fa;
+    color: #C8C8C8;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 0;
+}
+
+.active {
+    font-weight: 600;
+}
+
